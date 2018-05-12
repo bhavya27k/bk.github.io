@@ -1,0 +1,44 @@
+
+#desc , .header
+  {
+    font-family:Amaranth;
+	 font-size: 60px;
+	 color:teal;
+	 font-style:italic;
+	text-shadow:2px 1px white;
+	font-weight:bold;	
+	text-align: center;
+	
+	}
+	a{
+		 font-family: Tahoma;
+		 font-size: 50px;
+		 text-decoration:none;
+		 
+	}
+	ul{list-style-type: none;
+	   padding:0px;
+	   width:200px;
+	background-color:#f1f1f1;}
+	li a { display: block;
+           color:teal;
+            padding:10px 16px;
+            text-decoration:none;
+			float: left;
+            }
+    li a:hover { background-color:#555;
+                   color:white;
+	}				   
+	.para {
+		 font-family:verdana;
+		 font-variant:small-caps;
+		 float:right;
+		 font-size: 30px;
+		 margin:auto;
+		 width:60%;
+		 background-color:hsl(0,20%,50%);
+		 
+	}
+	body{ background-color:LightGray;}
+		 
+	
